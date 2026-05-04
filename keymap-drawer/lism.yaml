@@ -12,7 +12,7 @@ layers:
   - O
   - P
   - A
-  - {t: S, h: LALT}
+  - '&studio_unlock'
   - {t: D, h: LSHIFT}
   - {t: F, h: LGUI}
   - {t: G, h: LCTRL}
