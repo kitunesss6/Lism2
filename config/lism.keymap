@@ -7,9 +7,6 @@
 #include <dt-bindings/zmk/mouse.h>
 
 
-
-
-
 &mt {
     tapping-term-ms = <300>;
     flavor = "balanced";
