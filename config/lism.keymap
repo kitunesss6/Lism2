@@ -8,6 +8,12 @@
 
 
 
+CONFIG_ZMK_POINTING=y
+CONFIG_ZMK_MOUSE=y
+CONFIG_ZMK_POINTING_SCROLL=y
+
+CONFIG_ZMK_POINTING_SCROLL_LAYER=5
+
 &mt {
     tapping-term-ms = <300>;
     flavor = "balanced";
